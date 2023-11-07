@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->l
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="SlideAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_left</item>
+    </style>
+    
+    <!-- Light mode -->
+    <!-- Screen background on light mode -->
+    <style name="SCREEN">
+        <item name="android:background">#FFF</item>
+    </style>
+    <!-- Texts color on light mode-->
+    <style name="TEXT">
+        <item name="android:textColor">#000</item>
+    </style>
+    <!-- Button background on light mode-->
+    <style name="BUTTON">
+        <item name="android:background">@color/lavender</item>
+        <item name="android:textColor">#FFF</item>
+    </style>
+</resources>

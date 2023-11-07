@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    style="@style/SCREEN"
+    android:gravity="center"
+    tools:context=".Fragments.ExitFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Do you want exit app?"
+        android:textSize="20sp"
+        style="@style/TEXT"
+        android:layout_marginBottom="25dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnNo"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="no"
+            android:layout_marginEnd="15dp"
+            android:textColor="@color/white"
+            android:background="@drawable/background_1"/>
+
+        <Button
+            android:id="@+id/btnYes"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="yes"
+            android:textColor="@color/white"
+            android:background="@drawable/background_1"/>
+
+    </LinearLayout>
+
+</LinearLayout>

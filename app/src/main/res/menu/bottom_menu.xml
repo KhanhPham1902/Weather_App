@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_hourly"
+        android:title="Từng giờ"
+        android:icon="@drawable/hourly_grey"/>
+    <item
+        android:id="@+id/bottom_daily"
+        android:title="Từng ngày"
+        android:icon="@drawable/daily_grey"/>
+    <item
+        android:id="@+id/bottom_current"
+        android:title="Hiện tại"
+        android:icon="@drawable/today_grey"/>
+    <item
+        android:id="@+id/bottom_air_quality"
+        android:title="Chất lượng không khí"
+        android:icon="@drawable/air_grey"/>
+</menu>

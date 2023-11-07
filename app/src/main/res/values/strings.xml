@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="locate">"Hà Nội</string>
+    <string name="country">Vietnam</string>
+    <string name="search">Tìm kiếm địa điểm</string>
+    <string name="uvIndex">Chỉ số UV</string>
+    <string name="windSpeed">Sức gió</string>
+    <string name="humidity">Độ ẩm</string>
+    <string name="back">back</string>
+    <string name="tomorrow">Ngày mai</string>
+    <string name="days">09-09-2023</string>
+    <string name="status">Nhiều nắng</string>
+    <string name="hours">10:00 | 05-09-2023</string>
+    <string name="temp">31.5</string>
+    <string name="feelslike">Cảm giác như </string>
+    <string name="windmax">Tốc độ gió tối đa</string>
+    <string name="windDir">Hướng gió</string>
+    <string name="windDirection">NNE</string>
+    <string name="windDegree">25°</string>
+
+    <string name="celsius">°C</string>
+    <string name="degree">°</string>
+    <string name="kph">Km/h</string>
+    <string name="percent">%</string>
+    <string name="mm">mm</string>
+    <string name="km">Km</string>
+
+    <string name="windGust">Gió giật</string>
+    <string name="windGust_value">3.1km/h</string>
+    <string name="pressure">Áp suất không khí</string>
+    <string name="precipitation">Lượng mưa</string>
+    <string name="chanceOfRain">Xác suất có mưa</string>
+    <string name="vision">Tầm nhìn</string>
+    <string name="cloudCover">Độ che phủ mây</string>
+    <string name="sunrise">Bình minh</string>
+    <string name="sunset">Hoàng hôn</string>
+    <string name="moonrise">Mặt trăng mọc</string>
+    <string name="moonset">Mặt trăng lặn</string>
+    <string name="moon_phase">Pha trăng</string>
+    <string name="maxTemp">Nhiệt độ cao nhất</string>
+    <string name="minTemp">Nhiệt độ thấp nhất</string>
+    <string name="total_pre">Tổng lượng mưa trong ngày</string>
+    <string name="avg_vision">Tầm nhìn trung bình</string>
+    <string name="avg_humidity">Độ ẩm trung bình</string>
+    <string name="total_snowfall">Tổng lượng tuyết rơi</string>
+    <string name="chanceOfSnow">Xác xuất tuyết rơi</string>
+    <string name="details">Chi tiết>></string>
+    <string name="astro">Thiên văn</string>
+    <string name="air_quality">Chất lượng không khí</string>
+    <string name="forecast">Dự báo</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="co">Chỉ số khí CO</string>
+    <string name="no2">Chỉ số khí NO2</string>
+    <string name="so2">Chỉ số khí SO2</string>
+    <string name="o3">Chỉ số khí Ozone</string>
+    <string name="pm2_5">Bụi mịn PM2.5</string>
+    <string name="pm10">Bụi mịn PM10</string>
+    <string name="good">Tốt</string>
+    <string name="moderate">Trung bình</string>
+    <string name="poor">Kém</string>
+    <string name="unhealthy">Xấu</string>
+    <string name="very_unhealthy">Rất xấu</string>
+    <string name="hazardous">Nguy hại</string>
+    <string name="txtPm2_5">Bụi mịn PM2.5</string>
+    <string name="txtNo2">NO2 (Nitrogen Dioxide)</string>
+    <string name="txtOzone">O3 (Ozone)</string>
+    <string name="txtSo2">SO2 (Sulfur Dioxide)</string>
+    <string name="txtCO">CO (Carbon Monoxide)</string>
+    <string name="txtPm10">Bụi thô PM10</string>
+    <string name="air_quality_text">Chất lượng không khí</string>
+    <string name="major_pollutant">Chất gây ô nhiễm chính</string>
+    <string name="other_contaminants">Các chất gây ô nhiễm khác</string>
+
+    <string name="des_good">Bạn có thể tận hưởng các hoạt động ngoài trời thông thường của mình. Bạn có thể chọn mở cửa sổ và thông gió trong nhà để mang không khí ngoài trời vào.</string>
+    <string name="des_moderate">Do nguy cơ mắc các triệu chứng bệnh đường hô hấp, các nhóm nhạy cảm nên giảm nhiều tập thể dục ngoài trời khi chất lượng không khí ở mức trung bình (US AQI 51–100).</string>
+    <string name="des_poor">Khi chất lượng không khí không tốt cho các nhóm nhạy cảm, mọi người đều có nguy cơ bị kích ứng mắt, da và cổ họng cũng như các vấn đề về hô hấp. Công chúng nên giảm bớt sự gắng sức ngoài trời rất nhiều.</string>
+    <string name="des_unhealthy">Mọi người nên tránh và đeo khẩu trang chống ô nhiễm khi ở ngoài trời. Thông gió không được khuyến khích. Máy lọc không khí nên được bật.</string>
+    <string name="des_very_unhealthy">Nhóm nhạy cảm sẽ bị giảm sức bền trong các hoạt động. Những cá nhân này nên ở trong nhà và hạn chế các hoạt động. Mọi người nên tránh tập thể dục ngoài trời và đeo khẩu trang chống ô nhiễm ở ngoài trời. Thông gió không được khuyến khích. Máy lọc không khí nên được bật.</string>
+    <string name="des_hazadous">Mọi người đều có nguy cơ cao bị kích ứng mạnh và các tác động tiêu cực đến sức khỏe có thể gây ra các bệnh tim mạch và hô hấp. Tránh tập thể dục và ở trong nhà. Tránh tập thể dục ngoài trời và đeo khẩu trang chống ô nhiễm ở ngoài trời. Thông gió không được khuyến khích. Máy lọc không khí nên được bật.</string>
+</resources>

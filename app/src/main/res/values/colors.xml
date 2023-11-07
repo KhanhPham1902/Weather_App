@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFEC49</color>
+    <color name="blue">#0A72C5</color>
+    <color name="back1">#32364B</color>
+    <color name="back2">#212A3D</color>
+    <color name="back3">#1C1925</color>
+    <color name="orange">#FFAC07</color>
+    <color name="grey">#2B2B2B</color>
+    <color name="lavender">#8692f7</color>
+    <color name="light_blue">#B6DBF1</color>
+    <color name="light_yellow">#FAF1C4</color>
+    <color name="transparent">@android:color/transparent</color>
+
+    <color name="good">#4CAF50</color>
+    <color name="moderate">#FFEB3B</color>
+    <color name="poor">#FF9800</color>
+    <color name="unhealthy">#E81515</color>
+    <color name="very_unhealthy">#8D11A2</color>
+    <color name="hazardous">#3E1212</color>
+
+</resources>
